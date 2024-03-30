@@ -189,7 +189,7 @@
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
 
 ## AI
-
+- [huynle.com/ogpt.nvim](https://github.com/huynle/ogpt.nvim) - General neovim assistant (current support Ollama, gemini, huggingface/textgenui, Anthropic, OpenAI ) with custom template expander that allow you to have total control over the construction of your requests/questions.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
